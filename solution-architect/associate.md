@@ -7,6 +7,11 @@
     - Latency for Route 53 routing
     - integration with other services
   - Elastic Load Balancing
+- Networking and Compute
+  - Resource Access Manager (RAM)
+  - RAM is and how its sharing works, as well as its limitations.
+  - PrivateLink
+  - AWS Global Accelerator
 - Application Services
   - SQS (decoupling architectures (meaning your designs aren’t dependent on each other))
   - SNS
