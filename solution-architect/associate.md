@@ -36,3 +36,9 @@
 - AWS IAM Core Concepts you need to know : https://www.youtube.com/watch?v=_ZCTvmaPgao&ab_channel=BeABetterDev
   - Examples for lambda create function
   - How is access determined.
+
+
+- IQs
+  - VPC, Secure VPC, Network ACL vs Security Group (https://www.youtube.com/watch?v=xhHy7UuV5HA&ab_channel=ServerGyan)
+  - IAM  (https://www.youtube.com/watch?v=2YkD5TeIoKU)
+  - ELB ( https://www.youtube.com/watch?v=xtsUYgVjnPg&ab_channel=ServerGyan)
