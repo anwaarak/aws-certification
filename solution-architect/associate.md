@@ -2,6 +2,7 @@
 
 - VPC
 - High Availability and Scalability
+  - CloudFormation
   - CloudFront
   - Route 53
     - Latency for Route 53 routing
