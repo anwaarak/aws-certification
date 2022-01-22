@@ -1,3 +1,14 @@
+# Core Topics
+ - VPC
+ - Lambda
+ - S3
+ - Dynamo/RDS
+ - API Gateway
+ - IAM
+ - Route53
+ - SNS, STS, SQS
+ - EC2
+
 ## Topics
 
 - VPC
