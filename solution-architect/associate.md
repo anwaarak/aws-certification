@@ -9,7 +9,7 @@
  - SNS, STS, SQS
  - EC2
 
-## Topics
+# Topics
 
 - VPC
 - High Availability and Scalability
